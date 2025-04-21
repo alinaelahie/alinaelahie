@@ -30,6 +30,7 @@
 
 🧕 Based in Toronto 🇨🇦  
 <h2>📩 Let's Connect!
+  
 [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
 
 <!--
