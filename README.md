@@ -21,8 +21,8 @@
 
 ---
 
-### 📌 Projects
-- **SV Caller Benchmarking @ CCM**: [Repo Link]
+### 📌 Current Projects
+- **SV Caller Benchmarking @ CCM**: Presented at SickKids 2025
 - **T1D GWAS Analysis** in R
 - **TXB4 Variant Analysis** for PAH research
 
