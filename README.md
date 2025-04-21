@@ -2,7 +2,7 @@
 
 🔬 Clinical Bioinformatics intern @ Centre for Computational Medicine, SickKids  
 🎓 PG Cert in Clinical Bioinformatics | Background in Kinesiology & Health Sciences  
-🧠 Exploring the intersection of **genomics, muscle research, and bioinformatics**  
+🧠 Exploring the intersection of **genomics, rare disease research, and bioinformatics**  
 🌱 Currently learning: **Snakemake**, **Variant Calling**, **Structural Variation**
 
 ---
