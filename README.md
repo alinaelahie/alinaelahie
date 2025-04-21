@@ -31,7 +31,7 @@
 🧕 Based in Toronto 🇨🇦  
 <h2>📩 Let's Connect!
   
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
+[LinkedIn](https://ca.linkedin.com/in/alina-elahie)
 
 <!--
 **alinaelahie/alinaelahie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
